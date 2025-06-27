@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "5 Quick Breakfast Recipes",
+    "summary": "Start your day with these healthy and delicious breakfast ideas.",
+    "link": "https://example.com/breakfast"
+  },
+  {
+    "id": 2,
+    "title": "Spice Up Your Lunch",
+    "summary": "Add some flair to your midday meals with these spicy recipes.",
+    "link": "https://example.com/lunch"
+  },
+  {
+    "id": 3,
+    "title": "Evening Snacks for Everyone",
+    "summary": "Easy and quick snack recipes to enjoy in the evening.",
+    "link": "https://example.com/snacks"
+  }
+]
